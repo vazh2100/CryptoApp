@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CryptoApp</string>
+    <string name="symbols"> %s / %s</string>
+    <string name="last_update"> Время последнего обновления: %s</string>
+    <string name="tvPriceLabel">Цена:</string>
+    <string name="tvMinLabel">Минимум за день:</string>
+    <string name="tvMaxPriceLabel">Максимум за день:</string>
+    <string name="tvLastDealLabel">Последняя сделка:</string>
+    <string name="tvUpdated">Обновлено:</string>
+
+</resources>
